@@ -11,6 +11,6 @@
     <title></title>
   </head>
   <body>
-    Hello First Java Web!
+    Hello First Java Web Application!
   </body>
 </html>
